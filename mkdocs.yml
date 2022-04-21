@@ -1,3 +1,5 @@
 site_name: Nubi2Go Docs
 site_url: http://192.168.60.89/
-theme: material
+theme:
+  name: material
+  logo: assets/nubi2go-logo.png
