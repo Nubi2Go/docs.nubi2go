@@ -1,5 +1,6 @@
-site_name: Nubi2Go Docs
+site_name: Nubi2go Docs
 site_url: http://192.168.60.89/
 theme:
   name: material
   logo: assets/nubi2go-logo.png
+  favicon: assets/favicon.png
