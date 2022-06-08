@@ -37,7 +37,7 @@ En este caso, hay varias maneras de hacer lo mismo y hasta hay dos opciones para
 
 ## ¿Encontraste un error?   :octicons-bug-24:
 
-Todo nuestro sitio de Nubi2Go Docs está público. Si encontraste algo que está mal o requiere revisión, por favor, [abrinos un issue](https://github.com/Nubi2Go/docs.nubi2go).
+Todo nuestro sitio de Nubi2Go Docs está público. Si encontraste algo que está mal o requiere revisión, por favor, [abrinos un issue](https://github.com/Nubi2Go/docs.nubi2go/issues/new).
 
 
 
