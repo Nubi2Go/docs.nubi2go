@@ -24,7 +24,7 @@
   [nms-screen21]: assets/nms-screen21.png
   
 
-Nubi Monitoring Service ([NMS](https://www.nubi2go.com/services/nubi_monitoring_service)) es un servicio de monitoreo en tiempo real e histórico sobre los recursos de [Nubi Compute Service](https://nubi2go.com/docs/nubi_compute_service). 
+Nubi Monitoring Service ([NMS](https://www.nubi2go.com/services/nubi_monitoring_service)) es un servicio de monitoreo en tiempo real e histórico sobre los recursos de [Nubi Compute Service](https://nubi2go.com/docs/nubi_compute_service) (NCS). 
 El servicio consta de un agente que corre en tu servidor, una base de datos que almacena las métricas y unos paneles de visualización. 
 NMS está soportado tanto para Windows como para Linux, y todos los servidores NCS tienen incluído el plan básico gratis con 15 días de retención.
 
@@ -83,7 +83,7 @@ Para que NMS funcione, es necesario que el agente esté corriendo en tu servidor
 [![nms-screen1]][nms-screen1]
 3. Hacé click en "monitor.nubi2go.com/dashboards" 
 [![nms-screen7]][nms-screen7]
-4. En el login de NCS, hacé click en "Sign in with Nubi2Go"
+4. En el login de NMS, hacé click en "Sign in with Nubi2Go"
 [![nms-screen8]][nms-screen8]
 5. En caso de no estar autenticado, ingresá tus credenciales del Portal
 [![nms-screen9]][nms-screen9]
