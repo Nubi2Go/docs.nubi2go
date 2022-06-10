@@ -7,7 +7,7 @@ Documentación técnica de todos los servicios de Nubi2Go
 - [ ] VPC
 - [ ] Cloud Firewall and VPN
 - [X] Object Storage
-- [ ] Nubi Monitoring Service
+- [X] Nubi Monitoring Service
 - [ ] Custom Images
 
 
