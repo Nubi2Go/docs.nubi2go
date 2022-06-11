@@ -119,3 +119,31 @@ Podés cambiar el tamaño de un servidor NCS en cualquier momento, según lo req
 ![](assets/ncs-screen27-light.png)
 
 ## Backups
+Los backups son snapshots de los discos que tiene conectados un servidor NCS.
+Se ejecutan automáticamente dependiendo de la política ded backup configurada.
+Las politicas se componen de una frecuencia y de una cantidad de retenciones.
+
+Para acceder a los backups, entrá a **"Backups"**:
+![](assets/ncs-screen28-light.png)
+
+Para restaurar un backup, seleccioná **"Solicitar Restauración"** sobre el snapshot que necesitás y un ingeniero de Nubi2Go se pondrá a trabajar de inmediato:
+![](assets/ncs-screen29-light.png)
+
+Hay 2 tipos de restauración:
+
+1. Asignar el volumen a un servidor, para recuperar datos perdidos
+2. Si es el disco del sistema operativo, crear un nuevo servidor a partir de ese snapshot
+
+También podés crear un backup manualmente:
+
+1. En la sección **"Acciones del Servidor"** seleccioná **"Crear Snapshot"**
+![](assets/ncs-screen30-light.png)
+2. Elegí el volumen del servidor que querés respaldar y seleccioná **"Crear"**
+
+    !!! nota
+             Puede ser el volumen de sistema operativo o un [FBS](https://nubi2go.com/services/flexible_block_storage) que tenga conectado
+
+    ![](assets/ncs-screen31-light.png)
+
+3. Listo, podés ver el nuevo backup en la sección de **"Backups"**
+![](assets/ncs-screen32-light.png)
