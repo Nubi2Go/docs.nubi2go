@@ -1,3 +1,7 @@
+---
+description: Guías, código e integraciones sobre todos los servicios de Nubi2Go
+---
+
 # Bienvenido a Nubi2Go Docs
 
 :material-tools: En este sitio se encuentra la documentación técnica sobre todos los servicios de Nubi2Go, así como guías, recomendaciones e integraciones.
