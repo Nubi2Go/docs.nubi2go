@@ -81,7 +81,7 @@ Nubi Compute Service ([NCS](https://nubi2go.com/services/nubi_compute_service)) 
     ![](assets/ncs-screen17.png)
     3. Poné las credenciales del usuario administrador
     ![](assets/ncs-screen18.png)
-    4. Listo, ya estás conectado al servidor!
+    4. Listo, ¡ya estás conectado al servidor!
     ![](assets/ncs-screen19.png)
 === "Desde Linux"
     1. Instalá Remmina, si es que no lo tenés
@@ -89,7 +89,7 @@ Nubi Compute Service ([NCS](https://nubi2go.com/services/nubi_compute_service)) 
     ![](assets/ncs-screen20.png)
     3. Poné la IP del servidor, las credenciales de administrador y seleccioná **"Connect"**
     ![](assets/ncs-screen21.png)
-    4. Listo, ya estás conectado al servidor!
+    4. Listo, ¡ya estás conectado al servidor!
     ![](assets/ncs-screen22.png)
 
 ## Grupo de seguridad
@@ -103,7 +103,7 @@ Para agregar una nueva regla, seleccioná **"Agregar Regla"**:
 
 
 ## Volúmenes FBS
-Podés conectar volumenes [FBS](https://nubi2go.com/services/flexible_block_storage) que tengas contratados a un servidor NCS. Para ver como hacerlo, entrá a la [documentación de FBS](https://nubi2go.com/docs/flexible_block_storage/)
+Podés conectar volúmenes [FBS](https://nubi2go.com/services/flexible_block_storage) que tengas contratados a un servidor NCS. Para ver cómo hacerlo, entrá a la [documentación de FBS](https://nubi2go.com/docs/flexible_block_storage/)
 
 ## Resize
 Podés cambiar el tamaño de un servidor NCS en cualquier momento, según lo requieras.
@@ -121,7 +121,7 @@ Podés cambiar el tamaño de un servidor NCS en cualquier momento, según lo req
 ## Backups
 Los backups son snapshots de los discos que tiene conectados un servidor NCS.
 Se ejecutan automáticamente dependiendo de la política ded backup configurada.
-Las politicas se componen de una frecuencia y de una cantidad de retenciones.
+Las políticas se componen de una frecuencia y de una cantidad de retenciones.
 
 Para acceder a los backups, entrá a **"Backups"**:
 ![](assets/ncs-screen28-light.png)
