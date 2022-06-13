@@ -24,7 +24,7 @@
   [nms-screen21]: assets/nms-screen21.png
   
 
-Nubi Monitoring Service ([NMS](https://www.nubi2go.com/services/nubi_monitoring_service)) es un servicio de monitoreo en tiempo real e histórico sobre los recursos de [Nubi Compute Service](https://nubi2go.com/docs/nubi_compute_service) (NCS). 
+Nubi Monitoring Service ([NMS](https://www.nubi2go.com/services/nubi_monitoring_service)) es un servicio de monitoreo en tiempo real e histórico sobre los recursos de Nubi Compute Service ([NCS](https://nubi2go.com/docs/nubi_compute_service/)). 
 El servicio consta de un agente que corre en tu servidor, una base de datos que almacena las métricas y unos paneles de visualización. 
 NMS está soportado tanto para Windows como para Linux, y todos los servidores NCS tienen incluído el plan básico gratis con 15 días de retención.
 
@@ -47,14 +47,14 @@ Para que NMS funcione, es necesario que el agente esté corriendo en tu servidor
 		
 		[![nms-screen2]][nms-screen2]
 
-		(Para más info sobre cómo entrar por SSH a tu servidor hacé click [acá](https://nubi2go.com/docs/nubi_compute_service#acceso-a-servidores-ncs-linux))
+		(Para más info sobre cómo entrar por SSH a tu servidor hacé click [acá](https://nubi2go.com/docs/nubi_compute_service/#acceso-a-servidores-ncs-linux))
 	
 	=== "Windows"
 		Copiá el comando que figura a la **derecha** y correlo en un cmd como administrador 
 		
 		[![nms-screen3]][nms-screen3]
 
-		(Para más info sobre cómo entrar por Escritorio Remoto a tu servidor hacé click [acá](https://nubi2go.com/docs/nubi_compute_service#acceso-a-servidores-ncs-windows))
+		(Para más info sobre cómo entrar por Escritorio Remoto a tu servidor hacé click [acá](https://nubi2go.com/docs/nubi_compute_service/#acceso-a-servidores-ncs-windows))
 
 
 4. Repetí el procedimiento para cada servidor que vaya a tener monitoreo. 
