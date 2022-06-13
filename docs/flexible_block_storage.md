@@ -149,3 +149,13 @@ Después de conectar el volumen al servidor [desde el portal](#conectar-fbs-a-un
 
 6. Listo, ya quedó montado definitivamente. Probá desde el explorador de archivos poder escribir y leer sobre el volumen
     ![](assets/fbs-screen20.png)
+
+## Extensión
+Los vólumenes se pueden extender en cualquier momento según se requiera.
+
+1. En la sección **"Acciones del Volumen"** seleccioná **"Extender"**
+   ![](assets/fbs-screen21-light.png)
+2. Elegí el nuevo tamaño y seleccioná **"Extender"**
+   ![](assets/fbs-screen22-light.png)
+3. Una vez que se termine de ejecutar la acción, en la sección **"Detalles del Volumen"** vas a ver el nuevo tamaño.
+   ![](assets/fbs-screen23-light.png)
