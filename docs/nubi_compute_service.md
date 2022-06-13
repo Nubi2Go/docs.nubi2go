@@ -146,4 +146,3 @@ También podés crear un backup manualmente:
     ![](assets/ncs-screen31-light.png)
 
 3. Listo, podés ver el nuevo backup en la sección de **"Backups"**
-![](assets/ncs-screen32-light.png)
