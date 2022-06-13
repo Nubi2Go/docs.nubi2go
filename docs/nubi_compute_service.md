@@ -1,3 +1,7 @@
+---
+description: Guía completa sobre operaciones y accesos a tus máquinas virtuales Windows y Linux de Nubi2Go
+---
+
 # Nubi Compute Service
 ![](https://www.nubi2go.com/static/e1cc3940146d9b2fdf055b976e775ea0/7640e/computer_service_282.webp)
 

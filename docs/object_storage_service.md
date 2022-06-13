@@ -1,3 +1,7 @@
+---
+description: Ejemplo de código, librerías y uso de API para Object Storage (compatible con S3)
+---
+
 # Object Storage Service
 ![](https://www.nubi2go.com/static/1619855075733ad874a2214095ee70e4/28d96/bucket.webp)
 

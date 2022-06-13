@@ -1,3 +1,7 @@
+---
+description: Documentación para Windows y Linux sobre Block Storage en Nubi2Go
+---
+
 # Flexible Block Storage
 ![](https://www.nubi2go.com/static/158cc744759df54cd864611bad92b7b5/8aba8/flexible-block_storage_icon.webp)
 
