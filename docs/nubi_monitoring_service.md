@@ -138,6 +138,6 @@ Ejemplo de dashboard Windows Nubimon **Basic**:
 Dashboard Windows Nubimon **Full** (primera parte):
 [![nms-screen20]][nms-screen20]
 
-Dashboard Windows Nubimon **Full** (primera parte):
+Dashboard Windows Nubimon **Full** (segunda parte):
 [![nms-screen21]][nms-screen21]
 

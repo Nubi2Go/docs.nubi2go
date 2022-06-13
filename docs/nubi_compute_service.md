@@ -77,7 +77,7 @@ Nubi Compute Service ([NCS](https://nubi2go.com/services/nubi_compute_service)) 
 === "Desde Windows"
     1. Abrí Microsoft Terminal Services Client (mstsc)
     ![](assets/ncs-screen16.png)
-    2. Poné la IP del servidor en **"Computer"** y seleccionar **"Connect"**
+    2. Poné la IP del servidor en **"Computer"** y seleccioná **"Connect"**
     ![](assets/ncs-screen17.png)
     3. Poné las credenciales del usuario administrador
     ![](assets/ncs-screen18.png)
@@ -103,7 +103,7 @@ Para agregar una nueva regla, seleccioná **"Agregar Regla"**:
 
 
 ## Volúmenes FBS
-Podés conectar volúmenes [FBS](https://nubi2go.com/services/flexible_block_storage) que tengas contratados a un servidor NCS. Para ver cómo hacerlo, entrá a la [documentación de FBS](https://nubi2go.com/docs/flexible_block_storage/)
+Podés conectar volúmenes [FBS](https://nubi2go.com/services/flexible_block_storage) que tengas contratados a un servidor NCS. Para ver cómo hacerlo, entrá a la [documentación de FBS](https://nubi2go.com/docs/flexible_block_storage/).
 
 ## Resize
 Podés cambiar el tamaño de un servidor NCS en cualquier momento, según lo requieras.
@@ -115,12 +115,12 @@ Podés cambiar el tamaño de un servidor NCS en cualquier momento, según lo req
 ![](assets/ncs-screen25-light.png)
 2. Elegí el nuevo tamaño y seleccioná **"Aceptar"**
 ![](assets/ncs-screen26-light.png)
-3. Una vez que se termine de ejecutar la acción, en la sección **"Detalles del Servidor"** vas a ver el nuevo tamaño.
+3. Una vez que se termine de ejecutar la acción, en la sección **"Detalles del Servidor"** vas a ver el nuevo tamaño
 ![](assets/ncs-screen27-light.png)
 
 ## Backups
 Los backups son snapshots de los discos que tiene conectados un servidor NCS.
-Se ejecutan automáticamente dependiendo de la política ded backup configurada.
+Se ejecutan automáticamente dependiendo de la política de backup configurada.
 Las políticas se componen de una frecuencia y de una cantidad de retenciones.
 
 Para acceder a los backups, entrá a **"Backups"**:

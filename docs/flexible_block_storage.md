@@ -22,7 +22,7 @@ Debés tener, como mínimo, un NCS y un FBS contratados.
 	![](assets/fbs-screen3-light.png)
 	5. Elegí el volumen que querés conectar y seleccioná **“Conectar Volumen"**
 	![](assets/fbs-screen4-light.png)
-	6. Listo. En la sección “Conexiones” vas a ver volumen que se conectó, el tamaño   
+	6. Listo. En la sección **“Volumenes”** vas a ver volumen que se conectó, el tamaño   
 	y si contiene el Sistema Operativo
 	![](assets/fbs-screen5-light.png)
 
