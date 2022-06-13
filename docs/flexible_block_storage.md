@@ -151,7 +151,7 @@ Después de conectar el volumen al servidor [desde el portal](#conectar-fbs-a-un
     ![](assets/fbs-screen20.png)
 
 ## Extensión
-Los vólumenes se pueden extender en cualquier momento según se requiera.
+Los volúmenes se pueden extender en cualquier momento según se requiera.
 
 1. En la sección **"Acciones del Volumen"** seleccioná **"Extender"**
    ![](assets/fbs-screen21-light.png)
