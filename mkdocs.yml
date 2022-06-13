@@ -24,5 +24,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Services:
+    - Nubi Compute Service: nubi_compute_service.md
+    - Flexible Block Storage: flexible_block_storage.md
+    - Object Storage Service: object_storage_service.md
+    - Nubi Monitoring Service: nubi_monitoring_service.md
 extra_css:
   - stylesheets/extra.css

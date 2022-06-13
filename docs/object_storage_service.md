@@ -1,7 +1,7 @@
 # Object Storage Service
 ![](https://www.nubi2go.com/static/1619855075733ad874a2214095ee70e4/28d96/bucket.webp)
 
-Object Storage Service ([OSS](https://nubi2go.com/services/object_storage)) representa un servicio de almacenamiento de objetos compatible con S3. Luego de crear un usuario de S3 con sus credenciales, podés crear buckets, guardar tus archivos e integrarlo con tus aplicaciones.
+Object Storage Service ([OSS](https://nubi2go.com/services/object_storage_service)) representa un servicio de almacenamiento de objetos compatible con S3. Luego de crear un usuario de S3 con sus credenciales, podés crear buckets, guardar tus archivos e integrarlo con tus aplicaciones.
 
 ## S3 Endpoint
 Endpoint URL: <https://s3.nubi2go.com>
