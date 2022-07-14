@@ -30,8 +30,8 @@ nav:
   - Services:
     - Nubi Compute Service: nubi_compute_service.md
     - Flexible Block Storage: flexible_block_storage.md
+    - Virtual Private Cloud: virtual_private_cloud.md
     - Object Storage Service: object_storage_service.md
     - Nubi Monitoring Service: nubi_monitoring_service.md
-    - Virtual Private Cloud: virtual_private_cloud.md
 extra_css:
   - stylesheets/extra.css
