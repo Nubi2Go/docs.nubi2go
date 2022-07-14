@@ -4,7 +4,7 @@ Documentación técnica de todos los servicios de Nubi2Go
 
 - [X] Nubi Compute Service
 - [X] Flexible Block Storage
-- [ ] VPC
+- [X] VPC
 - [ ] Cloud Firewall and VPN
 - [X] Object Storage
 - [X] Nubi Monitoring Service
